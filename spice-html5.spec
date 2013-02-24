@@ -2,12 +2,12 @@
 Summary:	Pure JavaScript SPICE client
 Summary(pl.UTF-8):	Klient SPICE w czystym JavaScripcie
 Name:		spice-html5
-Version:	0.1.0
+Version:	0.1.1
 Release:	1
 License:	LGPL v3+
 Group:		Applications/Networking
 Source0:	http://spice-space.org/download/spice-html5/%{name}-%{version}.tar.gz
-# Source0-md5:	ef7daf5aa50bc1748af002522718ce81
+# Source0-md5:	9f0a2a48b372b42eefa6ae654bc5afcf
 URL:		http://spice-space.org/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
